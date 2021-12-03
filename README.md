@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham5767
 - 👀 I’m interested in Data Anlytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Advanced Python skills
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
