@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham5767
-- 👀 I’m interested in Data Analytics
+- 👀 Interested in Data Analytics
 - 🌱 love to explore data and to get insights, 
 -    Business Intelligence Specialist 
 - 💞️ I’m looking to collaborate on projects
